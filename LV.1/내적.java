@@ -12,7 +12,7 @@ a	b	result
 [1,2,3,4]	[-3,-1,0,2]	3
 [-1,0,1]	[1,0,-1]	-2
 */
-
+ 
 class Solution {
     public int solution(int[] a, int[] b) {
         int answer = 0;
