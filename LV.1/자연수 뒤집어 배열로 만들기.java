@@ -7,7 +7,7 @@ n은 10,000,000,000이하인 자연수입니다.
 n	return
 12345	[5,4,3,2,1]
 */
-
+ 
 class Solution {
     public int[] solution(long n) {
         String str = String.valueOf(n);
